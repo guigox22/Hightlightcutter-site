@@ -1,0 +1,19 @@
+/* Assinatura visual do Highlights Cutter: o ponto azul permanece vivo. */
+.brand i {
+  animation: brand-pulse 1.45s ease-in-out infinite;
+}
+
+@keyframes brand-pulse {
+  0%, 100% {
+    opacity: 1;
+    box-shadow: 0 0 12px 2px rgba(56, 189, 248, .48);
+  }
+  50% {
+    opacity: .3;
+    box-shadow: 0 0 5px 1px rgba(56, 189, 248, .22);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .brand i { animation: none; }
+}
