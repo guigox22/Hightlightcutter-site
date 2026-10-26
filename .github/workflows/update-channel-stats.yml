@@ -3,7 +3,7 @@ name: Atualizar métricas públicas do YouTube
 on:
   workflow_dispatch:
   schedule:
-    - cron: "7,22,37,52 * * * *"
+    - cron: "3/5 * * * *"
 
 permissions:
   contents: write
