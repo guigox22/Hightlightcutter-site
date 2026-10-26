@@ -1,1 +1,20 @@
-{"channels":{"geniais":{"videos":185,"views":52442,"subscribers":78},"politicando":{"videos":374,"views":195006,"subscribers":299},"gta":{"videos":38,"views":3378,"subscribers":32}},"updatedAt":"2026-10-23T19:20:26.5312194Z"}
+{
+  "updatedAt": "2026-10-26T22:32:52.9841362Z",
+  "channels": {
+    "politicando": {
+      "views": 216608,
+      "videos": 394,
+      "subscribers": 313
+    },
+    "geniais": {
+      "views": 52482,
+      "videos": 202,
+      "subscribers": 78
+    },
+    "gta": {
+      "views": 3968,
+      "videos": 45,
+      "subscribers": 33
+    }
+  }
+}
