@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-28T01:28:05.066Z",
+  "updatedAt": "2026-10-28T13:57:47.944Z",
   "channels": {
     "politicando": {
       "subscribers": 313,
-      "views": 216623,
-      "videos": 405
+      "views": 216604,
+      "videos": 413
     },
     "geniais": {
       "subscribers": 78,
-      "views": 52471,
-      "videos": 199
+      "views": 52478,
+      "videos": 182
     },
     "gta": {
-      "subscribers": 35,
-      "views": 4016,
-      "videos": 48
+      "subscribers": 36,
+      "views": 4310,
+      "videos": 52
     }
   }
 }
